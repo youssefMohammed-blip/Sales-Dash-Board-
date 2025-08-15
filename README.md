@@ -2,7 +2,8 @@
 sales dash boar using pivot table&amp; pivot charts
 #  Sales Dashboard – Pivot Tables & Pivot Charts
 
-![Dashboard Preview](assets/dashboard_preview.png)  
+![Dashboard Preview](assets/https://github.com/youssefMohammed-blip/Sales-Dash-Board-/blob/main/dashbourd%202025-08-15%20005543.png
+)  
 *An example interactive sales dashboard created using Excel Pivot Tables & Pivot Charts.*
 
 ---
